@@ -1,0 +1,8 @@
+- add a clock that ticks, has a a time dial. and is the solution to a puzzle
+- have a computer witha clue on it. when player selects monitor says off. prompt to turn desktop on, brings monitor up, and gives the player a clue
+- add notes in drawers that the player gets most clues from
+- player starts the game waking up
+- pixel/cel shading: https://www.youtube.com/watch?v=-4b812pMxDc
+- puzzle where player has to set table to unlock a drawer in the table (or other solution)
+- add a camera to show player being watched
+- have end of game be the outside door to very bright light
